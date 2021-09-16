@@ -9,7 +9,7 @@ As this menu matures, I plan to add many more features. Any help along the way w
 This menu is fully external and does not depend on any natives or game dependencies. Be aware this does not prevent bans!
 
 # How to download and run?
-1. Download the menu.
+1. [Download the Mod Menu.](https://github.com/coltonk9043/Coco-External-GTA-Menu/releases)
 2. Start GTA5 and wait until you have fully loaded ingame.
 3. Start the Mod menu.
 4. Use the default keybinds (Listed Below) to navigate the menu!
