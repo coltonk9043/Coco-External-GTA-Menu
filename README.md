@@ -25,10 +25,15 @@ This menu is fully external and does not depend on any natives or game dependenc
 
 # FAQ
 **Why is my Anti-Virus blocking the download / preventing this from running?**
+
 This Menu constantly monitors for keypresses and modifys the memory of another process. Anti-Viruses often flag programs like these because they operate similarly to Malware. This menu is fully open source and can be reviewed by anyone for malicious code.
+
 **Will this work online?**
+
 Yes, the menu will work online. Responsibility for any damage will not be held by me.
+
 **Numpad keys will not work. I can't navigate the menu**
+
 This menu requires you to enable NumLock on your keyboard.
 
 # Screenshots
