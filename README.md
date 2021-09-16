@@ -16,12 +16,19 @@ This menu is fully external and does not depend on any natives or game dependenc
 
 # Default Keybinds
 [Numpad 0] - Hide / Show the menu.
+
 [Numpad 8] - Navigate UP the menu.
+
 [Numpad 5] - Navigate DOWN the menu.
+
 [Numpad 9] - Enter another Navigation Menu / Enable and Disable mods / Update Values on Sliders.
+
 [Numpad 7] - Leave the current Navigation Menu.
+
 [Numpad 6] - Increase sliders.
+
 [Numpad 4] - Decrease sliders.
+
 
 # FAQ
 **Why is my Anti-Virus blocking the download / preventing this from running?**
