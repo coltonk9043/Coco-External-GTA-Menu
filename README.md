@@ -1,4 +1,4 @@
-# Coco External GTA Mod Menu
+# Coco External GTA5 Mod Menu
 > DISCLAIMER: This program is purely for Educational and Evaluation purposes ONLY. Be aware that I am not responsible for any damage caused by misuse. USE AT YOUR OWN RISK! 
 
 Started as a personal project to attempt externally modifying games, I decided to release this mod menu on here to help anyone else who has an interest in game modding.
