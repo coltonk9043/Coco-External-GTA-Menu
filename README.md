@@ -33,7 +33,7 @@ This menu is fully external and does not depend on any natives or game dependenc
 # FAQ
 **Why is my Anti-Virus blocking the download / preventing this from running?**
 
-This Menu constantly monitors for keypresses and modifys the memory of another process. Anti-Viruses often flag programs like these because they operate similarly to Malware. This menu is fully open source and can be reviewed by anyone for malicious code.
+This Menu constantly monitors for keypresses and modifies the memory of another process. Anti-Viruses often flag programs like these because they operate similarly to Malware. This menu is fully open source and can be reviewed by anyone for malicious code.
 
 **Will this work online?**
 
